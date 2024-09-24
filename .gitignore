@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/C
+/js_files
+/learn
+/node_modules
+/package-lock.json
+/package.json
